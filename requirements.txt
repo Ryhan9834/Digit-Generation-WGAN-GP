@@ -3,3 +3,7 @@ torchvision
 torchsummary
 matplotlib
 tqdm
+imageio
+pillow
+numpy
+os
